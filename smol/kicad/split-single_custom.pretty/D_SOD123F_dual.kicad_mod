@@ -1,0 +1,73 @@
+(footprint "D_SOD123F_dual" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 617189DA)
+  (property "Sheetfile" "split-single.kicad_sch")
+  (property "Sheetname" "")
+  (attr smd)
+  (fp_text reference "D2" (at 0 1.4) (layer "User.7")
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
+    (tstamp a525c461-a25c-455c-a3f4-934b2056845c)
+  )
+  (fp_text value "D_Small" (at 0 -1.925) (layer "F.SilkS") hide
+    (effects (font (size 0.7 0.7) (thickness 0.15)))
+    (tstamp 86026049-24c3-4189-95d1-91f5fd362f34)
+  )
+  (fp_text user "${REFERENCE}" (at 0 -2) (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp aa8e6ea2-92fd-4426-9a7d-0c44f502f516)
+  )
+  (fp_line (start -0.3 0) (end 0.3 0.35) (layer "B.SilkS") (width 0.2) (tstamp 1e3c9434-567b-4c9b-9a9e-d14c0c46b2c4))
+  (fp_line (start -2.5 0.7) (end -2.5 -0.7) (layer "B.SilkS") (width 0.2) (tstamp 2170e707-b419-40da-89d4-1dcf86f3a1a2))
+  (fp_line (start 0.3 0.35) (end 0.3 -0.4) (layer "B.SilkS") (width 0.2) (tstamp 258425dd-e99d-48e1-b11e-57a214dcdb98))
+  (fp_line (start 0.3 0) (end 0.6 0) (layer "B.SilkS") (width 0.2) (tstamp 595b4a10-1783-4df4-87ba-3f993df0dbf9))
+  (fp_line (start -2.7 0.7) (end -2.7 -0.7) (layer "B.SilkS") (width 0.2) (tstamp 5a80e585-71e9-4fbb-b0d6-6a3d3e7e971d))
+  (fp_line (start -0.3 0.35) (end -0.3 -0.4) (layer "B.SilkS") (width 0.2) (tstamp 5b4868d2-9afe-45b8-88e8-23424f46f367))
+  (fp_line (start -2.1 0.7) (end -2.1 -0.7) (layer "B.SilkS") (width 0.2) (tstamp 86a5955a-b3bf-472a-87f5-eb66a9413ec2))
+  (fp_line (start -0.3 0) (end -0.6 0) (layer "B.SilkS") (width 0.2) (tstamp 88ce3555-041a-4c42-8d63-7bb00c370114))
+  (fp_line (start 0.3 -0.4) (end -0.3 0) (layer "B.SilkS") (width 0.2) (tstamp dcb5c834-5179-4687-b3fe-4d815e6c13f9))
+  (fp_line (start -2.7 0.7) (end 2.1 0.7) (layer "B.SilkS") (width 0.2) (tstamp e9fb7456-eb99-4161-8ac1-91155baad1a8))
+  (fp_line (start -2.7 -0.7) (end 2.1 -0.7) (layer "B.SilkS") (width 0.2) (tstamp ebe02c3f-b28a-418e-896c-ebf58fa79fd4))
+  (fp_line (start -2.3 0.7) (end -2.3 -0.7) (layer "B.SilkS") (width 0.2) (tstamp edf2ba7d-741b-4904-8d6d-e49e22d6646f))
+  (fp_line (start 2.1 0.7) (end 2.1 -0.7) (layer "B.SilkS") (width 0.2) (tstamp f2511dd5-a2f3-45fd-8095-aaa9eef1c89f))
+  (fp_line (start -2.5 -0.7) (end -2.5 0.7) (layer "F.SilkS") (width 0.2) (tstamp 1e93791c-268e-48e6-8d28-aaa96a85dd07))
+  (fp_line (start 0.3 0) (end 0.6 0) (layer "F.SilkS") (width 0.2) (tstamp 50bf47d2-e6ee-4762-a38b-abb17fc344d2))
+  (fp_line (start -2.7 -0.7) (end -2.7 0.7) (layer "F.SilkS") (width 0.2) (tstamp 70f6c206-40c2-438b-942b-13c16e765e2d))
+  (fp_line (start -0.3 -0.35) (end -0.3 0.4) (layer "F.SilkS") (width 0.2) (tstamp 7a4c18c9-7d44-45e8-8eca-14a137110aa7))
+  (fp_line (start -0.3 0) (end 0.3 -0.35) (layer "F.SilkS") (width 0.2) (tstamp 8bffd97b-18f9-4bba-a2c5-89d7aab4a7b6))
+  (fp_line (start -2.7 -0.7) (end 2.1 -0.7) (layer "F.SilkS") (width 0.2) (tstamp 96a8f10c-c0c2-45a2-a94f-7e77c6ff89b1))
+  (fp_line (start 2.1 -0.7) (end 2.1 0.7) (layer "F.SilkS") (width 0.2) (tstamp a242e691-91b7-4afb-8c8d-232299b73f24))
+  (fp_line (start 0.3 -0.35) (end 0.3 0.4) (layer "F.SilkS") (width 0.2) (tstamp a5a125c8-0d83-46d0-8749-2a5ebe5df50d))
+  (fp_line (start 0.3 0.4) (end -0.3 0) (layer "F.SilkS") (width 0.2) (tstamp c5e6d8f6-da07-4cfe-bec2-a5f2d5965bbe))
+  (fp_line (start -2.1 -0.7) (end -2.1 0.7) (layer "F.SilkS") (width 0.2) (tstamp e3af0079-7b9b-47eb-a9d8-8e995231f98c))
+  (fp_line (start -0.3 0) (end -0.6 0) (layer "F.SilkS") (width 0.2) (tstamp f2ef5085-871a-4ba2-b93b-e8577c001846))
+  (fp_line (start -2.3 -0.7) (end -2.3 0.7) (layer "F.SilkS") (width 0.2) (tstamp fb332d38-b8ee-42dd-b120-b493bab11c3d))
+  (fp_line (start -2.7 0.7) (end 2.1 0.7) (layer "F.SilkS") (width 0.2) (tstamp ff01b0a5-a9f6-44f9-962c-0c24eceb1f15))
+  (pad "1" thru_hole circle (at -2 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu) (tstamp 5a3f5056-5439-42a5-b1f0-907b6c27c714))
+  (pad "1" smd rect (at -1.4 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6fe7b7ca-c782-4373-9c66-0c2d8d3d8ddd))
+  (pad "1" smd rect (at -1.4 0) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 8dea237f-f191-46c1-92c4-46ac603edf93))
+  (pad "2" thru_hole circle (at 2 0) (size 1.2 1.2) (drill 0.6) (layers *.Cu) (tstamp 059dcb0c-482c-41dc-8603-735566a7180b))
+  (pad "2" smd rect (at 1.4 0) (size 1.2 1.2) (layers "B.Cu" "B.Paste" "B.Mask") (tstamp 105b9958-c013-4ab2-9cf2-73c4812e282c))
+  (pad "2" smd rect (at 1.4 0) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f2efa25d-9373-4512-b3c2-4c75d22be780))
+  (group "" (id ede5980e-9e8a-4f56-a909-3a21b57a5937)
+    (members
+      1e3c9434-567b-4c9b-9a9e-d14c0c46b2c4
+      2170e707-b419-40da-89d4-1dcf86f3a1a2
+      258425dd-e99d-48e1-b11e-57a214dcdb98
+      595b4a10-1783-4df4-87ba-3f993df0dbf9
+      5a80e585-71e9-4fbb-b0d6-6a3d3e7e971d
+      5b4868d2-9afe-45b8-88e8-23424f46f367
+      86a5955a-b3bf-472a-87f5-eb66a9413ec2
+      88ce3555-041a-4c42-8d63-7bb00c370114
+      dcb5c834-5179-4687-b3fe-4d815e6c13f9
+      e9fb7456-eb99-4161-8ac1-91155baad1a8
+      ebe02c3f-b28a-418e-896c-ebf58fa79fd4
+      edf2ba7d-741b-4904-8d6d-e49e22d6646f
+      f2511dd5-a2f3-45fd-8095-aaa9eef1c89f
+    )
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-123F.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
