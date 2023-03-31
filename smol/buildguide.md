@@ -9,9 +9,9 @@ If your diodes are backwards you may fry your controller.
 
 you only need:
 
-- 1 controller
-- 36 choc switches & caps
-- 41 diodes
+- 1 [controller](https://boardsource.xyz/store/628b95b494dfa308a6581622)
+- 36 [choc switches](https://boardsource.xyz/store/5fff705f03db380da20f1014) & [caps](https://boardsource.xyz/store/5f6ef2d68e3bf05ab838f918)
+- 41 [diodes](https://boardsource.xyz/store/5ec9fc5d64caf04f83aa646c)
 - 2 pcbs
 - 2 cases
 
