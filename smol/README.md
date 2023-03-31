@@ -31,3 +31,5 @@ I dont think elite-c's would work being that they are 5V.
 I included pin holes but have not tested n!n.
 
 For most extra you can use [BS-python](https://github.com/boardsource/bs-python) our fork of circuitpython it has the matrix code frozen in,along with all of kmk. meaning you can simply drag on main.py and kb.py.
+
+I will try to make sure there is a up-to-date ready to order gerber in the kicad/gerber folder so people can download and order.
