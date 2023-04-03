@@ -7,7 +7,7 @@ I read A LOT of keyboard stuff day to day, one day I was reading about how much 
 That made me remember back years ago when I first got into custom ergo boards how thats where I cut my teeth.
 So I wanted to give back to this awesome community by making another cheap board.
 
-I also was reading about square matrixes, this all came together into this keyboard.
+I also was reading about [square matrixes](https://kbd.news/Square-or-round-robin-matrix-1400.html), this all came together into this keyboard.
 This keyboard is 1 pcb that flips to make the full single piece board.
 It is a symmetric staggered keyboard using 2 square matrixes with pcbs under 100x100mm,
 choc spaced with a 3d printed case that comes pre supported,for fdm printing or you can order them from jlc pcb at $1.68.
