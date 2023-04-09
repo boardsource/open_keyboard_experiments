@@ -2,7 +2,7 @@
 
 ## Story time.
 
-Hi cole here I thought I would tell you why I made this board.
+I thought I would tell you why we made this board.
 I read A LOT of keyboard stuff day to day, one day I was reading about how much some people find the 100x100mm $2 pcbs very important to the hobby.
 That made me remember back years ago when I first got into custom ergo boards how thats where I cut my teeth.
 So I wanted to give back to this awesome community by making another cheap board.
